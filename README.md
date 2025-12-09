@@ -3,6 +3,7 @@
 An AI-powered resume screening system that analyzes multiple **PDF resumes** against a **Job Description**, ranks candidates based on **text similarity** and **skill match**, and provides detailed insights for each resume.
 Designed for **recruiters, hiring teams, and job seekers** to quickly identify best-fit candidates.
 
+🟢 Live Demo: https://talentmatch-ai-resume-screening-ranking-system.streamlit.app/
 ---
 
 ## 🚀 Features
