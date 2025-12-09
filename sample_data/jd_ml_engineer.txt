@@ -1,0 +1,17 @@
+Job Title: Machine Learning Engineer
+
+Responsibilities:
+- Design, develop, and deploy machine learning models
+- Work with large datasets using Pandas and SQL
+- Implement deep learning models using TensorFlow or PyTorch
+- Build and optimize data pipelines and model evaluation metrics
+- Work with version control (Git) and cloud platforms (AWS, GCP, Azure)
+
+Required Skills:
+- Python
+- Machine Learning (scikit-learn)
+- TensorFlow or PyTorch
+- Pandas, NumPy
+- SQL
+- Strong knowledge of supervised and unsupervised learning
+- Experience with Docker or Kubernetes is a plus
